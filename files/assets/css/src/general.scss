@@ -1,0 +1,16 @@
+@import 'variables';
+
+@font-face {
+  font-family: 'Menubutton';
+  src: url("../fonts/menubutton.woff") format('woff');
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+@import 'navigation';
+@import 'header';
+@import 'onepager';
+@import 'main-content';
+@import 'footer';

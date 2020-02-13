@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20ee36ba-e3aa-4507-94ac-02a2e06f4a5b" name="ZKBB" url="http://ftp.nuescht-fuer-luschen.de">
+        <fileTransfer host="ftp.nuescht-fuer-luschen.de" port="21" rootFolder="/contao44">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
